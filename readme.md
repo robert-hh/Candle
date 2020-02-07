@@ -49,3 +49,8 @@ that wax melts in the sun. So do not expose it to direct
 sunlight. Otherwise you get candles in Salvador Dali style.
 Even then, I have to replace the wax part sometimes. It gets
 dirty after a while.
+
+Note: If you ask, what the relation to Micropython is:
+I used a PyBoard 1.0 and a LDR to capture the brightness 
+pattern of a real candle, and a Python script for normalizing
+the data and cutting it into appropriate segments.
