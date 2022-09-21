@@ -1,4 +1,4 @@
-# Just another candle simulation
+# A better candle simulation
 
 I made this little code in 2015, when I had a demand for a LED
 based candle, and everything I found was either ugly
