@@ -41,14 +41,14 @@ battery holder. The circuit is protected against
 inserting the battery in the wrong orientation.
 
 For use, I take a sufficiently large candle, diameter >65mm,
-let it burn down sich that is has a nice shape, with a cavity
+let it burn down such that is has a nice shape, with a cavity
 of ~2cm at the top. Then I make a hole in the bottom for the
 battery holder with the PCB, connect the LED and the LDR, 
 and then I'm done. The only problem with that approach is,
 that wax melts in the sun. So do not expose it to direct 
 sunlight. Otherwise you get candles in Salvador Dali style.
 Even then, I have to replace the wax part sometimes. It gets
-dirty after a while.
+dirty after a while at the graveyard.
 
 Note: If you ask, what the relation to Micropython is:
 I used a PyBoard 1.0 and a LDR to capture the brightness 
