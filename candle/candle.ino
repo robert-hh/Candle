@@ -8,7 +8,7 @@
 //#include <avr/cores/tiny/core_adc.h>
 
 // Data captured from a real candle, 1 per byte
-#include "data_4.h"
+#include "data_2.h"
 
 #define VCC_PIN 0 // Ouput for Vcc measuring
 #define LDR 1 //  Output controlling LDR
